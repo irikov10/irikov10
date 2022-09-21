@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @irikov10
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning JS, HTML and CSS
+- 📫 How to reach me- evgenijirikov10@gmail.com
