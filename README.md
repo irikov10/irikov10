@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/евгений ириков" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="евгений ириков" height="30" width="40" /></a>
-<a href="https://fb.com/евгений ириков" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="евгений ириков" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%b5%d0%b2%d0%b3%d0%b5%d0%bd%d0%b8%d0%b9-%d0%b8%d1%80%d0%b8%d0%ba%d0%be%d0%b2-305618259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b5%d0%b2%d0%b3%d0%b5%d0%bd%d0%b8%d0%b9-%d0%b8%d1%80%d0%b8%d0%ba%d0%be%d0%b2-305618259/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004298716073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004298716073" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
